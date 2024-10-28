@@ -189,4 +189,4 @@
 #
 # print(phrase)
 
-print("polska gurommmm")
+print("polska gurommmmm")
